@@ -46,3 +46,5 @@ This project simulates a **label flipping attack** on a text sentiment classifie
 1. Open the Colab notebook
 2. Run all cells
 3. See side-by-side confusion matrices and accuracy drop due to poisoning
+
+   Video Link : https://drive.google.com/file/d/1wIMGxr4uO-vHTXW0xeKQRG40GXXUclva/view?usp=share_link
